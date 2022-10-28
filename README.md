@@ -1,4 +1,4 @@
-# Algo_Lab1
+# Algo_Lab 1-2
 Lab1 - main.py
 AVL tree, insert
 
